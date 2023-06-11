@@ -1,7 +1,7 @@
 # Ajedrez en Java
 
 ## Descripción
-Este proyecto implementa un juego de ajedrez jugable en la consola. Fue desarrollado para cumplir con los requisitos de una tarea, y utiliza las características de la programación orientada a objetos de Java.
+Este proyecto implementa un juego de ajedrez jugable en la consola. Utiliza las características de la programación orientada a objetos de Java.
 
 ## Características
 - Implementa todas las piezas estándar del ajedrez (peón, torre, caballo, alfil, reina y rey).
